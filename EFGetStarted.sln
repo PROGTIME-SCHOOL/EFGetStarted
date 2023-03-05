@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33402.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFGetStarted", "EFGetStarted.csproj", "{6BE5EB2B-3F82-429C-BD3B-EAF151A1BB78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE5EB2B-3F82-429C-BD3B-EAF151A1BB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE5EB2B-3F82-429C-BD3B-EAF151A1BB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE5EB2B-3F82-429C-BD3B-EAF151A1BB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE5EB2B-3F82-429C-BD3B-EAF151A1BB78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D53F2191-CC90-414D-9DB7-50BF5B5BA7B5}
+	EndGlobalSection
+EndGlobal
